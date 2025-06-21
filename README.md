@@ -22,6 +22,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2czOGd6eWgwaGwzMnZjNmlza
 [![🏠 Rentify](https://img.shields.io/badge/Rentify-%23FF6F61?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/mearavind03/rentify)
 
 [![🧠 Text-to-SQL](https://img.shields.io/badge/Text--to--SQL-%234B8BBE?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/mearavind03/Text-to-Sql)
+<br> <br>
 
 
 
