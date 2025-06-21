@@ -1,8 +1,21 @@
-# 💫 About Me:
-Hi, I'm Aravind Ram 👋<br>I'm passionate about learning and building projects to improve my skills.<br><br>🔧 Tech Stack: Java | Python | JavaScript | React | Next.js | Tailwind | SQL<br><br>🚀 Projects:<br><br>🔍 YouTube Video Summarizer<br><br>🏠 Rentify – Property Rental Platform<br><br>🧠 Text-to-SQL Generator<br><br>
+<div> <h1 align="center">
+  Hi, I'm Aravind Ram 🤘🏻
+</h1></div>
+ 
+  
+
+<h3 align="center">
+  <strong><em>I'm passionate about learning and building projects to improve my skills </em></strong>
+</h3><br>
 
 
-## 🌐 Socials:
+
+## 🚀 Projects:
+🔍 YouTube Video Summarizer<br><br>🏠 Rentify – Property Rental Platform<br><br>🧠 Text-to-SQL Generator<br><br>
+
+
+
+## 🌐 Social Accounts:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lazynobita._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aravind-ram-7b8ba8270/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Small_Dish_422/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lazyintrovert03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindram2605@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,17 +27,18 @@ Hi, I'm Aravind Ram 👋<br>I'm passionate about learning and building projects 
 
 <!-- Snake Game Repo View -->
 
+<!-- Snake GitHub Contribution Graph -->
+# 🐍 GitHub Contribution
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img
+    alt="snake eating my contributions"
+    src="https://raw.githubusercontent.com/mearavind03/mearavind03/output/github-contribution-grid-snake.svg"
+  />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mearavind03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mearavind03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mearavind03&icon=3&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
