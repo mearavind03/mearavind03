@@ -28,7 +28,9 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2czOGd6eWgwaGwzMnZjNmlza
 
 
 ## 🌐 Social Accounts
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lazynobita._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-ram-7b8ba8270/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lazyintrovert03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindram2605@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lazynobita._/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-ram-7b8ba8270/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindram2605@gmail.com) 
 <br> <br> 
 
 
